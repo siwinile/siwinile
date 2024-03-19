@@ -1,6 +1,5 @@
  Hi there 👋
 
-<!--
 Siwinile, an intern in software development based in Cape Town, South Africa, and welcomes visitors to your GitHub profile
 Here are some ideas to get you started:
 
