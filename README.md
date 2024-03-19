@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **👯 I’m looking to collaborate on open-source projects related to web development and App development**
+- 👯I’m looking to collaborate on open-source projects related to web development and App development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/siwinile?tab=repositories](https://github.com/siwinile?tab=repositories)
 
-- 💬 Ask me about my experiences **my experiences!I've worked extensively with languages such as HTML, CSS, JavaScript, Java, and Python. Additionally, I have hands-on experience with frameworks like React.js and Firebase. I also have expertise in design tools like Balsamiq and Figma.**
+- 💬 Ask me about my experiences I've worked extensively with languages such as HTML, CSS, JavaScript, Java, and Python. Additionally, I have hands-on experience with frameworks like React.js and Firebase. I also have expertise in design tools like Balsamiq and Figma.**
 
 - 📫 How to reach me **siwinile.mdani@younglings.africa**
 
